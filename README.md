@@ -1,12 +1,12 @@
 # Random password generator
 
-Foobar is a Python library for dealing with word pluralization.
+This script is designed to make it easy to generate passwords on a Linux terminal.
 
 ## Installation
 
 This script can be ran from the downloaded directory. It will need to have execute permission.
 
-```shell
+```
 chmod +x pwgen.sh
 ```
 It can also be installed to your path.
@@ -28,4 +28,5 @@ N     Sets if numbers should be used
 
 Example usage:\
 ./pwgen.sh -n 15 -ulN
-FkA9ew2XHWuBrX8
+
+Will output something like: FkA9ew2XHWuBrX8
